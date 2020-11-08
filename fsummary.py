@@ -24,27 +24,15 @@ import numpy as np
 import statistics as sc
 import spacy
 import tokenize
-
 from pathlib import Path
-
-
-
 from scipy.stats import entropy
 from scipy.spatial import distance
 from collections import Counter
 from collections import OrderedDict
 from collections import Counter
-
-
-
 from string import punctuation
-
 import en_core_web_lg
 nlp = en_core_web_lg.load()
-
-
-
-
 def read_csv(csvfile):
     print('read_csv(): type(csvfile)) = {}'.format(csvfile))
 
@@ -52,7 +40,6 @@ def read_csv(csvfile):
     foo_df = pd.read_csv(csvfile)
 
     return foo_df
-
 
 def kld(summ, org):
         dist_original=Counter(org.lower().split())
