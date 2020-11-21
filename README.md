@@ -71,8 +71,8 @@ BertViz is a tool for visualizing Attention in the Transformer model, supporting
 # Attention-head view
 The Attention-head view visualizes the attention patterns produced by one or more attention heads in a given transformer layer.
 
-![alt text](https://github.com/D2KLab/sumly/blob/main/images/head_thumbnail_left.png) 
-![alt text](https://github.com/D2KLab/sumly/blob/main/images/head_thumbnail_right.gif) 
+![alt text](https://github.com/D2KLab/sumly/blob/master/Images/head_thumbnail_left.png) 
+![alt text](https://github.com/D2KLab/sumly/blob/master/Images/head_thumbnail_right.gif) 
 
 The Attention view supports all models from the Transformers library.
 
@@ -80,7 +80,7 @@ The Attention view supports all models from the Transformers library.
 
 The model view provides a birds-eye view of Attention across all of the model’s layers and heads.
 
-![alt text](https://github.com/D2KLab/sumly/blob/main/images/model_thumbnail.jpg) 
+![alt text](https://github.com/D2KLab/sumly/blob/master/Images/model_thumbnail.jpg) 
 
 The model view supports all models from the Transformers library
 
