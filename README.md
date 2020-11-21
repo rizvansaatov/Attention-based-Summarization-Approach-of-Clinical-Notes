@@ -88,7 +88,7 @@ The model view supports all models from the Transformers library
 
 The neuron view visualizes the individual neurons in the query and key vectors and shows how they are used to compute Attention.
 
-![alt text](https://github.com/D2KLab/sumly/blob/main/images/neuron_thumbnail.png)
+![alt text](https://github.com/D2KLab/sumly/blob/master/Images/neuron_thumbnail.png)
 
 
 # Conlcusion
