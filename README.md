@@ -60,7 +60,12 @@ Furthermore, you can find  other baseline approach models on repository in order
 If you want to run your colab and jupyter file via CLI you can use **Colab-cli** library.
 See repository here: [colab-cli](https://github.com/Akshay090/colab-cli)
 
+#### Result
+![alt text](https://github.com/D2KLab/sumly/blob/main/Images/Cos.png)
+![alt text](https://github.com/D2KLab/sumly/blob/master/Images/klandjs.png)
 
+Left: Cosine Similarity and Jaccard Similarity where higher value means higher similarity.<br />
+Right: KLD and JSD divergence where values closer to 0 mean less distance (higher similarity).
 
 #### BertViz
 
@@ -105,4 +110,3 @@ We used clinical notes written by doctors as an input. For a detailed descriptio
 - https://github.com/jessevig/bertviz
 - https://github.com/Akshay090/colab-cli
 - https://towardsdatascience.com/heres-how-i-made-a-cli-tool-to-work-with-google-colab-notebooks-7678a88ca662
-
