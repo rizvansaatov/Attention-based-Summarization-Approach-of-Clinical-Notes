@@ -34,7 +34,7 @@ In case you already created virtual environment in Pycharm start directly from h
 
 You need to clone the repository:
 
-> $ git clone https://github.com/D2KLab/sumly.git
+> $ git clone https://github.com/rizvansaatov/Attention-based-Summarization-Approach-of-Clinical-Notes.git
 
 Run **main.py** on CLI. You can use PyCharm terminal or on already created environment.
 By choosing you can pilot either the statistical-based model or the transformer-based model.
