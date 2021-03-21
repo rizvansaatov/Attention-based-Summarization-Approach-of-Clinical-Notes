@@ -36,7 +36,7 @@ In case you already created a virtual environment in Pycharm, start directly fro
 
 You need to clone the repository:
 
-> $ git clone https://github.com/D2KLab/sumly.git
+> $ git clone https://github.com/rizvansaatov/Attention_based_Summarization_Approach_of_Clinical_Notes.git
 
 Run **main.py** on CLI. You can use the PyCharm terminal or on an already created environment.
 By choosing, you can pilot either the statistical-based model or the transformer-based model.
@@ -77,8 +77,8 @@ BertViz is a tool for visualizing Attention in the Transformer model, supporting
 The Attention-head view visualizes the attention patterns produced by one or more attention heads in a given transformer layer.
 
  
-![alt text](https://github.com/D2KLab/sumly/blob/master/Images/head_thumbnail_left.png) 
-![alt text](https://github.com/D2KLab/sumly/blob/master/Images/head_thumbnail_right.gif) 
+![alt text](https://github.com/rizvansaatov/Attention_based_Summarization_Approach_of_Clinical_Notes/blob/master/Images/head_thumbnail_left.png) 
+![alt text](https://github.com/rizvansaatov/Attention_based_Summarization_Approach_of_Clinical_Notes/blob/master/Images/head_thumbnail_right.gif) 
 
 
 The Attention view supports all models from the Transformers library.
@@ -88,7 +88,7 @@ The Attention view supports all models from the Transformers library.
 The model view provides a birds-eye view of Attention across all of the model’s layers and heads.
 
 
-![alt text](https://github.com/D2KLab/sumly/blob/master/Images/model_thumbnail.jpg) 
+![alt text](https://github.com/rizvansaatov/Attention_based_Summarization_Approach_of_Clinical_Notes/blob/master/Images/model_thumbnail.jpeg) 
 
 
 The model view supports all models from the Transformers library.
@@ -98,7 +98,7 @@ The model view supports all models from the Transformers library.
 The neuron view visualizes the individual neurons in the query and key vectors and shows how they are used to compute Attention.
 
 
-![alt text](https://github.com/D2KLab/sumly/blob/master/Images/neuron_thumbnail.png)
+![alt text](https://github.com/rizvansaatov/Attention_based_Summarization_Approach_of_Clinical_Notes/blob/master/Images/neuron_thumbnail.png)
 
 
 
